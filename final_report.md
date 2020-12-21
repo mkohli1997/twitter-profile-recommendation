@@ -263,7 +263,7 @@ below:
 </tbody>
 </table>
 
-> **Table 2: Recommendation Results**
+**Table 2: Recommendation Results**
 
 The text in the table above is the concatenation of the respective
 users’ latest tweets. In the first user tweet, the tweet doc is about
