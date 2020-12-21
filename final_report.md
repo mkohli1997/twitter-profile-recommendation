@@ -277,7 +277,7 @@ topics are as shown in the visualization below:
 
 <img src="media/image5.png" style="width:7.29966in;height:3.82813in" />
 
-> **Fig. 3: LDA Results (Topics)**
+**Fig. 3: LDA Results (Topics)**
 
 Here is the list of top 5 keywords in the extracted topics from LDA
 Model. These keywords tell us about the tweets which are categorized in
@@ -297,8 +297,7 @@ topics.
 | 8                | black, people, police, protect, trump             |
 | 9                | right, leader, election, state, political         |
 
-> **Table. 3: Top 5 keywords of LDA Topics** \* these words are bigrams,
-> joined by a ‘\_’
+**Table. 3: Top 5 keywords of LDA Topics** \* these words are bigrams, joined by a ‘\_’
 
 **A. Evaluation strategy for LDA**
 
