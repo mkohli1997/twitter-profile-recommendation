@@ -2,13 +2,13 @@
 
 ##Mehul Kohli, Ritika Singhal
 
-1.  **<u>PROBLEM STATEMENT</u>**
+I.  **<u>PROBLEM STATEMENT</u>**
 
 Implement a section for recommending other twitter profiles to the user,
 based on the content the users post on twitter about the currently
 trending topics.
 
-1.  **<u>SIGNIFICANCE</u>**
+II.  **<u>SIGNIFICANCE</u>**
 
 The aim of this project is to make an addition to the existing “Who to
 Follow” section on Twitter. The current system makes recommendations
@@ -21,7 +21,7 @@ account what all topics they share content about. This is the approach
 that has not been implemented by Twitter yet which makes our project new
 and innovative.
 
-1.  **<u>DATA DESCRIPTION</u>**
+III.  **<u>DATA DESCRIPTION</u>**
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ and innovative.
 
 **Table 1: Data Description**
 
-1.  **<u>LITERATURE REVIEW</u>**
+IV.  **<u>LITERATURE REVIEW</u>**
 
 There have been quite a few research papers that have been published on
 similar topics. We intend to take inspiration from some of these papers
@@ -108,12 +108,11 @@ extracted by LDA. The dataset used was the 20 Newsgroups dataset. They
 have made use of a document-topic matrix and distributed each vector to
 the nearest cluster using the Jensen-Shannon Divergence.
 
-1.  **<u>APPROACH</u>**
+V.  **<u>APPROACH</u>**
 
-    1.  **Approach 1: Applying K - Means Clustering on Tf-IDF features
-        > and Entity-Based Sentiment**
+**Approach 1: Applying K - Means Clustering on Tf-IDF features and Entity-Based Sentiment**
 
-> Our initial approach to this problem was to combine entity-based
+Our initial approach to this problem was to combine entity-based
 > sentiment present in the user’s tweets with the Tf-IDF features;
 > however, we realized that this approach had a drawback of users not
 > being able to know about the opinions opposite to those of their own.
