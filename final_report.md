@@ -8,7 +8,7 @@ Implement a section for recommending other twitter profiles to the user,
 based on the content the users post on twitter about the currently
 trending topics.
 
-II.  **<u>SIGNIFICANCE</u>**
+#### II.  <u>SIGNIFICANCE</u>
 
 The aim of this project is to make an addition to the existing “Who to
 Follow” section on Twitter. The current system makes recommendations
@@ -21,7 +21,7 @@ account what all topics they share content about. This is the approach
 that has not been implemented by Twitter yet which makes our project new
 and innovative.
 
-III.  **<u>DATA DESCRIPTION</u>**
+#### III.  <u>DATA DESCRIPTION</u>
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ III.  **<u>DATA DESCRIPTION</u>**
 
 **Table 1: Data Description**
 
-IV.  **<u>LITERATURE REVIEW</u>**
+#### IV.  <u>LITERATURE REVIEW</u>
 
 There have been quite a few research papers that have been published on
 similar topics. We intend to take inspiration from some of these papers
@@ -108,7 +108,7 @@ extracted by LDA. The dataset used was the 20 Newsgroups dataset. They
 have made use of a document-topic matrix and distributed each vector to
 the nearest cluster using the Jensen-Shannon Divergence.
 
-V.  **<u>APPROACH</u>**
+#### V.  <u>APPROACH</u>
 
 **Approach 1: Applying K - Means Clustering on Tf-IDF features and Entity-Based Sentiment**
 
@@ -137,10 +137,9 @@ tweet documents, after which the final K - Means algorithm was
 performed on the probability distribution of documents. This approach
 gave us the best results.
 
-VI.  **<u>IMPLEMENTATION</u>**
+#### VI.  <u>IMPLEMENTATION</u>
 
-**<u>Step - 1: Applying LDA and extracting topics from the Tweet
-Documents</u>**
+**<u>Step - 1: Applying LDA and extracting topics from the Tweet Documents</u>**
 
 The idea behind using LDA before applying K-Means is to ensure that each
 final cluster we form contains users who tweet about the same topic
@@ -155,8 +154,7 @@ final cluster we form contains users who tweet about the same topic
 
 -   Building a vocabulary for a bag of words model.
 
--   Forming bigrams and trigrams from the text and adding to the
-    > vocabulary.
+-   Forming bigrams and trigrams from the text and adding to the vocabulary.
 
 **Implementation of the LDA Model**
 
@@ -183,8 +181,7 @@ the elbow method on the coherence score values, which turned out to be
 >
 > **Fig. 1: Coherence scores for upto 30 topics**
 
-**<u>Step - 2: Applying K-Means Clustering on the output of Step -
-1</u>**
+**<u>Step - 2: Applying K-Means Clustering on the output of Step - 1</u>**
 
 By applying K-Means clustering algorithm on the probability distribution
 matrix, we clustered documents that have similar probability
@@ -207,7 +204,7 @@ from all the data points within the same identified cluster and return
 the usernames along with their tweets that correspond to the closest *k*
 data points.
 
-1.  **<u>RESULTS & EVALUATIONS</u>**
+#### VII.  **<u>RESULTS & EVALUATIONS</u>**
 
 The results for this project are the final recommendations of our model
 to the twitter users. Some of the examples of recommendations are shown
