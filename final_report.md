@@ -222,12 +222,11 @@ below:
 <td>1.</td>
 <td>Please wear masks, observe social distancing, and wash hands regularly to keep yourself and your loved ones safe from the deadly covid19. Working from home this summer! Trying to be productive this quarantine season.</td>
 <td><ol type="1">
-
+  
 <p><strong>@ravavyr</strong> tweeted: @itylergarrett What do you mean? Can you elaborate on "political usage of the virus"? I figure the reason we are paying is because the government failed to pass the bills to provide covid relief for the people and it's all been because of partisan bullshit that doesn't belong in the relief bill</p>
 
-<li><blockquote>
 <p><strong>@TexasCorn</strong> tweeted: @USDA made a new announcement that there is a second round of coronavirus aid to producers for as much as $14 billion. The program provides potential aid to a broader group of farmers who were not eligible for the earlier program.</p>
-</blockquote></li>
+
 <li><blockquote>
 <p><strong>@mej_joe</strong> tweeted: Trump has a plan for coronavirus: herd immunity. Say goodbye to your parents, your neighbors, and your friends. Because the Trump plan will kill millions in the next four years. Being sick with a virus he called a hoax doesn’t make Trump any less of a white supremacist, fascist mass murderer.</p>
 </blockquote></li>
