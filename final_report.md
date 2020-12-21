@@ -121,24 +121,23 @@ approach.
 
 **Approach 2: Applying K - Means Clustering on Tf-IDF Features and Text Subjectivity**
 
-> By using text subjectivity as a feature instead of sentiment, users
-> who expressed an opinion on a certain topic (i.e. more subjective
-> tweets) would have similar subjectivity scores. Adding it as a feature
-> could enable them to look at diversified content, but this approach
-> failed to give us good clusters as there were many dissimilar tweet
-> documents that ended up in the same cluster.
+By using text subjectivity as a feature instead of sentiment, users
+who expressed an opinion on a certain topic (i.e. more subjective
+tweets) would have similar subjectivity scores. Adding it as a feature
+could enable them to look at diversified content, but this approach
+failed to give us good clusters as there were many dissimilar tweet
+documents that ended up in the same cluster.
 
-1.  **Approach 3: Latent Dirichlet Allocation (LDA) and K - Means
-    > Clustering**
+**Approach 3: Latent Dirichlet Allocation (LDA) and K - Means Clustering**
 
-> This approach enabled us to extract a number of topics from the tweet
-> documents using LDA to distinguish users based on the topics contained
-> in their tweets This approach gave us an initial soft-clustering of
-> tweet documents, after which the final K - Means algorithm was
-> performed on the probability distribution of documents. This approach
-> gave us the best results.
+This approach enabled us to extract a number of topics from the tweet
+documents using LDA to distinguish users based on the topics contained
+in their tweets This approach gave us an initial soft-clustering of
+tweet documents, after which the final K - Means algorithm was
+performed on the probability distribution of documents. This approach
+gave us the best results.
 
-1.  **<u>IMPLEMENTATION</u>**
+VI.  **<u>IMPLEMENTATION</u>**
 
 **<u>Step - 1: Applying LDA and extracting topics from the Tweet
 Documents</u>**
