@@ -113,14 +113,13 @@ V.  **<u>APPROACH</u>**
 **Approach 1: Applying K - Means Clustering on Tf-IDF features and Entity-Based Sentiment**
 
 Our initial approach to this problem was to combine entity-based
-> sentiment present in the user’s tweets with the Tf-IDF features;
-> however, we realized that this approach had a drawback of users not
-> being able to know about the opinions opposite to those of their own.
-> To overcome this issue, we discarded this approach and tried another
-> approach.
+sentiment present in the user’s tweets with the Tf-IDF features;
+however, we realized that this approach had a drawback of users not
+being able to know about the opinions opposite to those of their own.
+To overcome this issue, we discarded this approach and tried another
+approach.
 
-1.  **Approach 2: Applying K - Means Clustering on Tf-IDF Features and
-    > Text Subjectivity**
+**Approach 2: Applying K - Means Clustering on Tf-IDF Features and Text Subjectivity**
 
 > By using text subjectivity as a feature instead of sentiment, users
 > who expressed an opinion on a certain topic (i.e. more subjective
