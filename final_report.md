@@ -1,6 +1,6 @@
-> **Twitter Profile Recommendation System**
->
-> Mehul Kohli, Ritika Singhal
+#**Twitter Profile Recommendation System**
+
+##Mehul Kohli, Ritika Singhal
 
 1.  **<u>PROBLEM STATEMENT</u>**
 
