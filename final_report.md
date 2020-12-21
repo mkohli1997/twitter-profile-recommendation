@@ -227,36 +227,29 @@ below:
 
 <p><strong>@TexasCorn</strong> tweeted: @USDA made a new announcement that there is a second round of coronavirus aid to producers for as much as $14 billion. The program provides potential aid to a broader group of farmers who were not eligible for the earlier program.</p>
 
-<li><blockquote>
 <p><strong>@mej_joe</strong> tweeted: Trump has a plan for coronavirus: herd immunity. Say goodbye to your parents, your neighbors, and your friends. Because the Trump plan will kill millions in the next four years. Being sick with a virus he called a hoax doesn’t make Trump any less of a white supremacist, fascist mass murderer.</p>
-</blockquote></li>
-<li><blockquote>
+
 <p><strong>@zezezebe</strong> tweeted: Whatever your political perspective, let's remember that Donald Trump is a human being. An American. A father. A husband. A brother. A cousin. A second cousin. A bankrupt. A lactose-tolerator. An omnivore. A biped. A hominid. A primate. A symmetrical animal. A vertebrate.</p>
-</blockquote></li>
-<li><blockquote>
+
 <p><strong>@Better4Hughes</strong> tweeted: Meanwhile, over on facebook. A certain Federal LNP MP is promoting (bad) legal advice to people who decide to break Victoria's Covid restrictions. And still @ScottMorrisonMP stays silent. Enabling yet again his dangerous behaviour</p>
-</blockquote></li>
+
 </ol></td>
 </tr>
 <tr class="even">
 <td>2.</td>
 <td>I'm a proud democrat, supporting Joe Biden for this presidential election. We will win by a landslide!! #Biden2020 The democrats are winning! Biden is ahead on the national polls. Joe Biden is the kind of president we need to recover from this crisis. We cannot recover until there is a change of power in this country!</td>
 <td><ol type="1">
-<li><blockquote>
+
 <p><strong>@mojoandjasper</strong> tweeted: This is NOT F**KING OKAY. THIS is why we need to show up this November. We can’t give up. For Breonna. Demand change and vote out those who won’t allow it. https://t.co/XEInmFBwQV Michelle and I hope that the President, First Lady, and all those affected by the coronavirus around the country are getting the care they need and are on the path to a speedy recovery.</p>
-</blockquote></li>
-<li><blockquote>
+
 <p><strong>@Adequate_Scott</strong> tweeted: There is no way out of ~all this~ without truly grappling with the malevolence and rot of the leaders in both sides. That's not handwaving Trump. This laser like focus on Trump, and the accompanying "we'll have time to argue about Reparations after Biden wins" is the handwave.</p>
-</blockquote></li>
-<li><blockquote>
+
 <p><strong>@KayS57</strong> tweeted: Biden responds to Trump blaming him for the lack of a national mask mandate by correctly pointing out that Trump is in fact the president https://t.co/0aLTPGHEUK 04 #VoteEarly Anti-Abortion Zealots Demand a Vote to Fill Ginsburg's Seat | By: Ed Kilgore https://t.co/hRV96jzsuy I think the Bush brothers, George &amp;amp; Jeb, should endorse Joe Biden ASAP. Trump steals from kids-cancer charities. You don’t think he’ll try to steal this election? BREAKING: Barack Obama will host two Biden campaign fundraisers with Kamala Harris next Friday.</p>
-</blockquote></li>
-<li><blockquote>
+
 <p><strong>@KatneaB</strong> tweeted: No Wisconsin absentee ballots were found in mail discovered in a ditch in the Fox Valley last week, the state's top election official said. The White House has been pushing conspiracies about voter fraud based on this discovery. https://t.co/Z2wuXdzSeJ</p>
-</blockquote></li>
-<li><blockquote>
+
 <p><strong>@pmramani</strong> tweeted: No Wisconsin absentee ballots were found in mail discovered in a ditch in the Fox Valley last week, the state's top election official said. The White House has been pushing conspiracies about voter fraud based on this discovery. https://t.co/Z2wuXdzSeJ</p>
-</blockquote></li>
+
 </ol></td>
 </tr>
 </tbody>
