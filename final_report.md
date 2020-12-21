@@ -2,7 +2,7 @@
 
 ## Mehul Kohli, Ritika Singhal
 
-### I.  <u>PROBLEM STATEMENT</u>
+#### I.  <u>PROBLEM STATEMENT</u>
 
 Implement a section for recommending other twitter profiles to the user,
 based on the content the users post on twitter about the currently
