@@ -147,8 +147,7 @@ final cluster we form contains users who tweet about the same topic
 
 **Data Preparation for LDA Steps**
 
--   Concatenating together each user’s collection of tweets and treating
-    > them as one tweet document.
+-   Concatenating together each user’s collection of tweets and treating them as one tweet document.
 
 -   Cleaning and pre-processing the tweets’ text.
 
