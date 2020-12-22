@@ -8,7 +8,20 @@ Implement a section for recommending other twitter profiles to the user,
 based on the content the users post on twitter about the currently
 trending topics.
 
-### II.  <u>SIGNIFICANCE</u>
+### II. <u>INSTRUCTIONS FOR IMPLEMENTATION</u>
+ - Apply for a Twitter developer account. Obtain API_KEY, API_SECRET, ACCESS_KEY and ACCESS_TOKEN_SECRET
+ from your developer portal. This is required for pulling tweets.
+ - Create a keys.py and store all the above keys in this script.
+ - Keep keys.py in the same directory and run pull_tweets.py to extract tweets based on the given search words.
+ - Aggregate all the generated csv files by a simple pandas concat function into a single csv file and save
+ it in the same working directory.
+ - Using the filter_emoticon_data.py, separate emoticons from each tweet and store the cleaned version.
+ - The extracted emoticon data can be used in the future versions of the project where we may have enough
+ tweets with atleast 1 emoticon, for which we need a much larger dataset of tweets. They can then be used for
+ some entity-based sentiment analysis.
+ - The next step is to just run the Tweets Clustering jupyter notebook.
+
+### III.  <u>SIGNIFICANCE</u>
 
 The aim of this project is to make an addition to the existing “Who to
 Follow” section on Twitter. The current system makes recommendations
@@ -21,7 +34,7 @@ account what all topics they share content about. This is the approach
 that has not been implemented by Twitter yet which makes our project new
 and innovative.
 
-### III.  <u>DATA DESCRIPTION</u>
+### IV.  <u>DATA DESCRIPTION</u>
 
 <table>
 <thead>
@@ -51,7 +64,7 @@ and innovative.
 
 **Table 1: Data Description**
 
-### IV.  <u>LITERATURE REVIEW</u>
+### V.  <u>LITERATURE REVIEW</u>
 
 There have been quite a few research papers that have been published on
 similar topics. We intend to take inspiration from some of these papers
@@ -108,7 +121,7 @@ extracted by LDA. The dataset used was the 20 Newsgroups dataset. They
 have made use of a document-topic matrix and distributed each vector to
 the nearest cluster using the Jensen-Shannon Divergence.
 
-### V.  <u>APPROACH</u>
+### VI.  <u>APPROACH</u>
 
 **Approach 1: Applying K - Means Clustering on Tf-IDF features and Entity-Based Sentiment**
 
@@ -137,7 +150,7 @@ tweet documents, after which the final K - Means algorithm was
 performed on the probability distribution of documents. This approach
 gave us the best results.
 
-### VI.  <u>IMPLEMENTATION</u>
+### VII.  <u>IMPLEMENTATION</u>
 
 **<u>Step - 1: Applying LDA and extracting topics from the Tweet Documents</u>**
 
@@ -203,7 +216,7 @@ from all the data points within the same identified cluster and return
 the usernames along with their tweets that correspond to the closest *k*
 data points.
 
-### VII.  **<u>RESULTS & EVALUATIONS</u>**
+### VIII.  **<u>RESULTS & EVALUATIONS</u>**
 
 The results for this project are the final recommendations of our model
 to the twitter users. Some of the examples of recommendations are shown
@@ -322,7 +335,7 @@ were able to verify our results.
 >
 > **Fig. 5: Silhouette visual plot of the 10 Clusters**
 
-### VIII.  **<u>CONCLUSION, LESSONS LEARNED & FUTURE WORK</u>**
+### IX.  **<u>CONCLUSION, LESSONS LEARNED & FUTURE WORK</u>**
 
 With the success of our evaluation, we concluded our project which
 successfully gives good recommendations to twitter users based on the
@@ -347,7 +360,7 @@ incorporate real time data through Apache Spark and analysing graphics
 like images and videos. This will make our project more diverse and more
 powerful for recommendations on Twitter.
 
-### IX.  **<u>REFERENCES</u>**
+### X.  **<u>REFERENCES</u>**
 
 \[1\] Kozo Chikai and Yuki Arase (2016). *Analysis of Similarity
 Measures between Short Text for the NTCIR-12 Short Text Conversation
