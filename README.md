@@ -180,7 +180,7 @@ tweet documents having similar distributions together.
 The obtained probability distribution matrix *M* can be formulated as
 follows:
 
-M\[i, j\] = Probability of document i belonging to a topic j.
+***M\[i, j\] = Probability of document i belonging to a topic j.***
 
 Hence, each row of this matrix is stochastic and is treated as a data
 point for the K-Means Algorithm in the next step.
