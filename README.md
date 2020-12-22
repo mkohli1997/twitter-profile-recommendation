@@ -200,7 +200,7 @@ matrix, we clustered documents that have similar probability
 distributions. The optimal number of clusters was obtained by applying
 the elbow method, which turned out to be **10** in our case.
 
-> <img src="media/image1.png" style="width:3.67744in;height:2.27357in" />
+> <img src="images/kmeans_LDA_elbow.png" style="width:3.67744in;height:2.27357in" />
 >
 > **Fig. 2: Elbow method for optimal number of clusters**
 
@@ -288,7 +288,7 @@ extracted the results from LDA (Topic Modeling) which gave us insights
 about the topic analysis of the given tweet documents. The extracted
 topics are as shown in the visualization below:
 
-<img src="media/image5.png" style="width:7.29966in;height:3.82813in" />
+<img src="images/topics_vis.png" style="width:7.29966in;height:3.82813in" />
 
 **Fig. 3: LDA Results (Topics)**
 
@@ -327,11 +327,11 @@ terms of these metrics with 0.40 being the Silhouette Score and 1.03
 being the Davies-Bouldin Index. Through these evaluation strategies, we
 were able to verify our results.
 
-> <img src="media/image4.png" style="width:3.94271in;height:2.6648in" />
+> <img src="images/Silhouette_curve_kmeans_lda.png" style="width:3.94271in;height:2.6648in" />
 >
 > **Fig. 4: Silhouette Score vs Number of Clusters**
 >
-> <img src="media/image2.png" style="width:3.91791in;height:2.73438in" />
+> <img src="images/silhouette_visualizer.png" style="width:3.91791in;height:2.73438in" />
 >
 > **Fig. 5: Silhouette visual plot of the 10 Clusters**
 
