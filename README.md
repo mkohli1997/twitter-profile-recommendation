@@ -189,7 +189,7 @@ The optimal number of topics to be extracted was determined by applying
 the elbow method on the coherence score values, which turned out to be
 **10** in our case.
 
-> <img src="media/image3.png" style="width:3.14251in;height:2.17406in" />
+> <img src="images/topic_model_elbow.png" style="width:3.14251in;height:2.17406in" />
 >
 > **Fig. 1: Coherence scores for upto 30 topics**
 
